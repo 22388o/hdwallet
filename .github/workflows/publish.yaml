@@ -26,8 +26,5 @@ jobs:
       - name: Build
         run: npx lerna run build
 
-      - name: Test
-        run: npx lerna run test
-
       - name: Publish new version to NPM
         run: npx lerna publish from-package --no-git-tag-version --no-push --yes --loglevel verbose --no-verify-access

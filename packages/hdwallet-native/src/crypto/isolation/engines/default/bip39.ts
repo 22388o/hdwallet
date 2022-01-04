@@ -1,6 +1,6 @@
 /// <reference types="bip32/types/crypto" />
 
-import * as core from "@shapeshiftoss/hdwallet-core"
+import * as core from "@thorswap-lib/hdwallet-core"
 
 export * from "../../core/bip39";
 import * as BIP39 from "../../core/bip39";

@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import * as bip39 from "bip39";
 import * as eventemitter2 from "eventemitter2";
 import _ from "lodash";

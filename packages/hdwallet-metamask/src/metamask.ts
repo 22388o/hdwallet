@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import * as eth from "./ethereum";
 import _ from "lodash";
 import detectEthereumProvider from "@metamask/detect-provider";

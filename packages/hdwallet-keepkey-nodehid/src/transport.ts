@@ -1,4 +1,4 @@
-import * as keepkey from "@shapeshiftoss/hdwallet-keepkey";
+import * as keepkey from "@thorswap-lib/hdwallet-keepkey";
 import * as hid from "node-hid";
 
 import { VENDOR_ID, PRODUCT_ID } from "./utils";

@@ -1,4 +1,4 @@
-import * as native from "@shapeshiftoss/hdwallet-native";
+import * as native from "@thorswap-lib/hdwallet-native";
 import * as uuid from "uuid";
 import * as bip39 from "bip39";
 

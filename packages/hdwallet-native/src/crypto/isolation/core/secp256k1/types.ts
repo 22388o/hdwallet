@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core"
+import * as core from "@thorswap-lib/hdwallet-core"
 import * as ethers from "ethers"
 import { Literal, Object as Obj, Static, Union } from "funtypes";
 import * as tinyecc from "tiny-secp256k1";

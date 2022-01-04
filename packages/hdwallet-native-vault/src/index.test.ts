@@ -1,4 +1,4 @@
-import * as native from "@shapeshiftoss/hdwallet-native";
+import * as native from "@thorswap-lib/hdwallet-native";
 import * as idb from "idb-keyval";
 import * as jose from "jose";
 import * as uuid from "uuid";

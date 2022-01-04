@@ -1,6 +1,6 @@
 import * as Messages from "@keepkey/device-protocol/lib/messages_pb"
 import * as Types from "@keepkey/device-protocol/lib/types_pb"
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import * as jspb from "google-protobuf";
 
 import { EXIT_TYPES } from "./responseTypeRegistry";

@@ -1,4 +1,4 @@
-import * as native from "@shapeshiftoss/hdwallet-native";
+import * as native from "@thorswap-lib/hdwallet-native";
 import * as uuid from "uuid";
 import { TextDecoder, TextEncoder } from "web-encoding";
 

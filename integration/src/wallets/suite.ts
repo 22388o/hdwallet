@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 
 export type InfoCreater = () => core.HDWalletInfo;
 export type Creater = (type?: any) => Promise<core.HDWallet>;

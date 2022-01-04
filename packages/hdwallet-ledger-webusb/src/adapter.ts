@@ -1,5 +1,5 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as ledger from "@shapeshiftoss/hdwallet-ledger";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as ledger from "@thorswap-lib/hdwallet-ledger";
 
 import { LedgerWebUsbTransport, getFirstLedgerDevice, getTransport, openTransport } from "./transport";
 

@@ -1,6 +1,6 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as ledger from "@shapeshiftoss/hdwallet-ledger";
-import * as portis from "@shapeshiftoss/hdwallet-portis";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as ledger from "@thorswap-lib/hdwallet-ledger";
+import * as portis from "@thorswap-lib/hdwallet-portis";
 
 const MNEMONIC12_ALLALL = "all all all all all all all all all all all all";
 

@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 
 import tx_unsigned from "./tx02.mainnet.thorchain.json";
 import tx_signed from "./tx02.mainnet.thorchain.signed.json";

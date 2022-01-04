@@ -1,7 +1,7 @@
 import * as Exchange from "@keepkey/device-protocol/lib/exchange_pb";
 import * as Messages from "@keepkey/device-protocol/lib/messages_pb";
 import * as Types from "@keepkey/device-protocol/lib/types_pb";
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import Common from "@ethereumjs/common";
 import { FeeMarketEIP1559Transaction, Transaction } from "@ethereumjs/tx";
 import * as eip55 from "eip55";

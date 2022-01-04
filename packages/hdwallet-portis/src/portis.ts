@@ -1,5 +1,5 @@
 import Portis from "@portis/web3";
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import _ from "lodash";
 import Web3 from "web3";
 

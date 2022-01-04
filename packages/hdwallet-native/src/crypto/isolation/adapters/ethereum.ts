@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core"
+import * as core from "@thorswap-lib/hdwallet-core"
 import * as ethers from "ethers";
 
 import { SecP256K1 } from "../core";

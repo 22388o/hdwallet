@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import Common from "@ethereumjs/common";
 import { Transaction } from "@ethereumjs/tx";
 

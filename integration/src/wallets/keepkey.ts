@@ -1,7 +1,7 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as keepkey from "@shapeshiftoss/hdwallet-keepkey";
-import * as keepkeyNodeWebUSB from "@shapeshiftoss/hdwallet-keepkey-nodewebusb";
-import * as keepkeyTcp from "@shapeshiftoss/hdwallet-keepkey-tcp";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as keepkey from "@thorswap-lib/hdwallet-keepkey";
+import * as keepkeyNodeWebUSB from "@thorswap-lib/hdwallet-keepkey-nodewebusb";
+import * as keepkeyTcp from "@thorswap-lib/hdwallet-keepkey-tcp";
 import * as debug from "debug";
 import AxiosHTTPAdapter from "axios/lib/adapters/http";
 

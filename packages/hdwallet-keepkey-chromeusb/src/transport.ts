@@ -1,5 +1,5 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as keepkey from "@shapeshiftoss/hdwallet-keepkey";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as keepkey from "@thorswap-lib/hdwallet-keepkey";
 
 import { VENDOR_ID, WEBUSB_PRODUCT_ID, chromeUSB, assertChromeUSB, makePromise } from "./utils";
 

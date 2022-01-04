@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import { MetaMaskHDWallet } from "./metamask";
 import MetaMaskOnboarding from "@metamask/onboarding";
 import detectEthereumProvider from "@metamask/detect-provider";

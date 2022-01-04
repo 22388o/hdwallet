@@ -1,5 +1,5 @@
 {
-  "name": "@shapeshiftoss/hdwallet-core",
+  "name": "@thorswap-lib/hdwallet-core",
   "version": "1.18.4",
   "license": "MIT",
   "publishConfig": {

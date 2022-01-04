@@ -1,5 +1,5 @@
 {
-  "name": "@shapeshiftoss/hdwallet-keepkey-tcp",
+  "name": "@thorswap-lib/hdwallet-keepkey-tcp",
   "version": "1.18.4",
   "license": "MIT",
   "publishConfig": {
@@ -14,8 +14,8 @@
     "prepublishOnly": "yarn clean && yarn build"
   },
   "dependencies": {
-    "@shapeshiftoss/hdwallet-core": "1.18.4",
-    "@shapeshiftoss/hdwallet-keepkey": "1.18.4",
+    "@thorswap-lib/hdwallet-core": "1.18.4",
+    "@thorswap-lib/hdwallet-keepkey": "1.18.4",
     "axios": "^0.21.1"
   },
   "devDependencies": {

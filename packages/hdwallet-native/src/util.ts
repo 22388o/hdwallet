@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 
 import { BTCScriptType } from "./bitcoin";
 import { getNetwork } from "./networks";

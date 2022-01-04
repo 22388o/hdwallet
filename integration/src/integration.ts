@@ -1,9 +1,9 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as keepkey from "@shapeshiftoss/hdwallet-keepkey";
-import * as ledger from "@shapeshiftoss/hdwallet-ledger";
-import * as native from "@shapeshiftoss/hdwallet-native";
-import * as portis from "@shapeshiftoss/hdwallet-portis";
-import * as trezor from "@shapeshiftoss/hdwallet-trezor";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as keepkey from "@thorswap-lib/hdwallet-keepkey";
+import * as ledger from "@thorswap-lib/hdwallet-ledger";
+import * as native from "@thorswap-lib/hdwallet-native";
+import * as portis from "@thorswap-lib/hdwallet-portis";
+import * as trezor from "@thorswap-lib/hdwallet-trezor";
 
 import { btcTests } from "./bitcoin";
 import { ethTests } from "./ethereum";

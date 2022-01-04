@@ -1,12 +1,12 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as keepkey from "@shapeshiftoss/hdwallet-keepkey";
-import * as keepkeyTcp from "@shapeshiftoss/hdwallet-keepkey-tcp";
-import * as keepkeyWebUSB from "@shapeshiftoss/hdwallet-keepkey-webusb";
-import * as ledgerWebUSB from "@shapeshiftoss/hdwallet-ledger-webusb";
-import * as native from "@shapeshiftoss/hdwallet-native";
-import * as portis from "@shapeshiftoss/hdwallet-portis";
-import * as metaMask from "@shapeshiftoss/hdwallet-metamask";
-import * as trezorConnect from "@shapeshiftoss/hdwallet-trezor-connect";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as keepkey from "@thorswap-lib/hdwallet-keepkey";
+import * as keepkeyTcp from "@thorswap-lib/hdwallet-keepkey-tcp";
+import * as keepkeyWebUSB from "@thorswap-lib/hdwallet-keepkey-webusb";
+import * as ledgerWebUSB from "@thorswap-lib/hdwallet-ledger-webusb";
+import * as native from "@thorswap-lib/hdwallet-native";
+import * as portis from "@thorswap-lib/hdwallet-portis";
+import * as metaMask from "@thorswap-lib/hdwallet-metamask";
+import * as trezorConnect from "@thorswap-lib/hdwallet-trezor-connect";
 
 import * as debug from "debug";
 import $ from "jquery";

@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import * as bech32 from "bech32";
 import BigNumber from "bignumber.js";
 import * as bnbSdk from "bnb-javascript-sdk-nobroadcast";

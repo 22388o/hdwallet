@@ -1,6 +1,6 @@
 import * as CosmosMessages from "@keepkey/device-protocol/lib/messages-cosmos_pb";
 import * as Messages from "@keepkey/device-protocol/lib/messages_pb";
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import _ from "lodash";
 
 import { Transport } from "./transport";

@@ -1,5 +1,5 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
-import * as native from "@shapeshiftoss/hdwallet-native";
+import * as core from "@thorswap-lib/hdwallet-core";
+import * as native from "@thorswap-lib/hdwallet-native";
 import * as _ from "lodash";
 
 // TODO: clean this up

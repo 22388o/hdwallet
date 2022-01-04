@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import type Transport from "@ledgerhq/hw-transport";
 import type Btc from "@ledgerhq/hw-app-btc";
 import type Eth from "@ledgerhq/hw-app-eth";

@@ -1,4 +1,4 @@
-import * as core from "@shapeshiftoss/hdwallet-core";
+import * as core from "@thorswap-lib/hdwallet-core";
 import * as bchAddr from "bchaddrjs";
 import * as bitcoin from "@shapeshiftoss/bitcoinjs-lib";
 
